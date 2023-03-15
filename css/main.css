@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+@font-face {
+    font-family: 'Courier-New-Bold';
+    src: url(./font/Courier-New-Bold.ttf);
+  }
+body {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background-color: #eca8a8;
+    font-family: 'Courier-New-Bold';
+  }
+  a {
+    text-decoration: none;
+  }
+#Title > p {
+    margin: 0;
+    white-space: pre;
+}
